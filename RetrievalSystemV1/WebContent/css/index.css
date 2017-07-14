@@ -1,0 +1,81 @@
+﻿body{
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    font-family: "Century Gothic","Microsoft yahei";
+}
+body, div, dl, dt, dd, ul, ol, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td, iframe, table, tr{
+	margin: 0;
+    padding: 0;
+}
+
+
+.top {
+    height: 30px;
+    background: #F7F7F7;
+    border-bottom: 1px solid #E0E0E0;
+    width: 100%;
+    min-width: 100%;
+    box-shadow: 0 1px 2px #E2EBF4;
+}
+.topli{
+	margin: 1px;
+	padding: 2px;
+	float:right;
+	list-style:none;
+}
+.list{
+    border:0;
+    height:25px;
+    width:60px;
+    background:#36F;
+    color:#fff;}
+
+.pic{
+    text-align:center;
+   ;}
+.logo{
+    height:130px;
+    width:270px;}
+.search {
+    width: 100%;
+    padding: 0;
+    margin: 20px 0;
+    text-align: center;
+}
+.searchinput {
+    width:500px;
+	height:36px;
+}
+#submit{
+	width:100px;
+	height:36px;
+	background:#3385ff; 
+	border:1px solid #06F;
+	color:#fff;
+	font-size:16px; 
+	font-family: "Century Gothic","Microsoft yahei";
+} 
+.btn{
+    border:0;
+    width:100px;
+    height:30px;
+    background:#36F;
+    font-size:15px;
+    color:#fff;}
+
+.foot{width:100%;
+    bottom:10px;}
+.foot>.link{
+    text-align:center;
+    margin-bottom:10px;}
+.foot>.link>a{
+    font-size:12px;
+    font-family: "Century Gothic","Microsoft yahei";
+    text-decoration:underline;}
+.copyright{
+    text-align:center;}
+p,p>a{
+    font-size:12px;
+    font-family: "Century Gothic","Microsoft yahei";
+    color:#666;}

@@ -1,0 +1,40 @@
+#header {
+    background-color:#0099CC;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#99CCFF;
+    height:450px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    width:500px;
+    float:left;
+    padding:10px;	 	 
+}
+#footer {
+    background-color:#0099CC;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;	
+         	 
+}
+
+.foot{width:100%;
+    position:absolute;
+    bottom:10px;
+    background-color:#0099CC;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;}
+.area{
+	width:900px;
+	margin:0 auto; 
+	}

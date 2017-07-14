@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="F:/Project/JavaWorkspace/Spider/lib/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="F:/Project/JavaWorkspace/Spider/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Project/JavaWorkspace/Spider/lib/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="lib" path="F:/Project/JavaWorkspace/Spider/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/Project/JavaWorkspace/Spider/lib/IKAnalyzer2012FF_u1.jar"/>
+	<classpathentry kind="lib" path="F:/Project/JavaWorkspace/Spider/lib/je-5.0.73.jar"/>
+	<classpathentry kind="lib" path="F:/Project/JavaWorkspace/Spider/lib/je-analysis-1.5.3.jar"/>
+	<classpathentry kind="lib" path="F:/Project/JavaWorkspace/Spider/lib/json-20140107.jar"/>
+	<classpathentry kind="lib" path="F:/Project/JavaWorkspace/Spider/lib/jsoup-1.7.3.jar"/>
+	<classpathentry kind="lib" path="F:/Project/JavaWorkspace/Spider/lib/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="F:/Project/JavaWorkspace/Spider/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="F:/Project/JavaWorkspace/Spider/lib/juniversalchardet-1.0.3.jar"/>
+	<classpathentry kind="lib" path="F:/Project/JavaWorkspace/Spider/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="F:/Project/JavaWorkspace/Spider/lib/mysql-connector-java-5.1.40.jar"/>
+	<classpathentry kind="lib" path="F:/Project/JavaWorkspace/Spider/lib/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="F:/Project/JavaWorkspace/Spider/lib/slf4j-log4j12-1.7.21.jar"/>
+	<classpathentry kind="lib" path="F:/Project/JavaWorkspace/Spider/lib/lucene-core-4.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/Project/JavaWorkspace/Spider/lib/lucene-queryparser-4.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/Project/JavaWorkspace/Spider/lib/mail.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
